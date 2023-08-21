@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumBruteForce", "SeleniumBruteForce\SeleniumBruteForce.csproj", "{B6DFE0CF-F454-4CEB-A556-1DE244CD859B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6DFE0CF-F454-4CEB-A556-1DE244CD859B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DFE0CF-F454-4CEB-A556-1DE244CD859B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DFE0CF-F454-4CEB-A556-1DE244CD859B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DFE0CF-F454-4CEB-A556-1DE244CD859B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5CA91A8-D67C-480B-A7A6-3F4516E1CB3D}
+	EndGlobalSection
+EndGlobal
